@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://solofounders.dokufolio.com/sitemap.xml
